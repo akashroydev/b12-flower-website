@@ -189,6 +189,31 @@ header{
 
 
 
+/**----footer section design----**/
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.middle-div{
+    display: flex;
+    gap: 100px;
+}
+.middle-div ul li{
+    list-style: none;
+    line-height: 50px;
+}
+.middle-div a{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+.icon img{
+    margin: 0 10px 0 10px;
+}
+
+
+
 
 
 
