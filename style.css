@@ -123,3 +123,46 @@ header{
 
 
 
+
+/**----latest section style----**/
+.latest-section{
+    margin-top: -200px;
+}
+.latest-section h2{
+    font-size: 50px;
+    font-weight: 700;
+    align-items: center;
+    text-align: center;
+}
+.latest-section p{
+    font-size: 22px;
+    align-items: center;
+    text-align: center;
+}
+.paragraph{
+    margin-top: 20px;
+}
+.img-section{
+    display: flex;
+    margin-top: 100px;
+}
+.img-section img{
+    border-radius: 20px;
+}
+.img-2 img{
+    margin: 10px;
+    width: 500px;
+}
+.img-1 img{
+    margin: 10px;
+    height: 570px;
+    width: 700px;
+}
+
+
+
+
+
+
+
+
