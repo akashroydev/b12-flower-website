@@ -41,3 +41,50 @@ header{
     font-size: 22px;
 }
 
+
+
+
+
+/**----banner style----**/
+.our-plants{
+    margin-top: 50px;
+}
+.our-plants h3{
+    font-weight: 700; 
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+}
+.our-plants{
+    text-align: center;
+}
+.btn{
+    background-color: #E95A08;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 20px 80px 20px 80px;
+    margin-top: 10px;
+    border: none;
+}
+.usd{
+    line-height: 30px;
+}
+.Lily-Blossom{
+    line-height: 30px;
+}
+.card{
+    line-height: 40px;
+}
+.card p{
+    font-size: 22px;
+    font-weight: 700;
+}
+.card-praimary{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 50px;
+    margin-top: 20px;
+}
+
+
+
