@@ -88,3 +88,38 @@ header{
 
 
 
+
+/**----challenge section style----**/
+.banner-left p{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+.challenge-section{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-top: 200px;
+}
+.banner-img-2 img{
+    position: relative;
+    height: 300px;
+    right: -350px;
+    top: -750px;
+}
+.banner-left ul li{
+    font-size: 22px;
+}
+.banner-left ul li{
+    margin-top: 20px;
+}
+.banner-left{
+    position: relative;
+    top: -150px;
+}
+.position{
+    margin-left: -30px;
+}
+
+
+
